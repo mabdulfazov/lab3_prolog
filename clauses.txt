@@ -1,0 +1,38 @@
+clauses
+    cinema(1, "Cinema 1", "Address 1", "Phone 1", 200).
+    cinema(2, "Cinema 2", "Address 2", "Phone 2", 150).
+    cinema(3, "Cinema 3", "Address 3", "Phone 3", 180).
+    cinema(4, "Cinema 4", "Address 4", "Phone 4", 220).
+    cinema(5, "Cinema 5", "Address 5", "Phone 5", 250).
+    cinema(6, "Cinema 6", "Address 6", "Phone 6", 200).
+    cinema(7, "Cinema 7", "Address 7", "Phone 7", 230).
+    cinema(8, "Cinema 8", "Address 8", "Phone 8", 150).
+    cinema(9, "Cinema 9", "Address 9", "Phone 9", 180).
+    cinema(10, "Cinema 10", "Address 10", "Phone 10", 200).
+    cinema(11, "Cinema 11", "Address 11", "Phone 11", 190).
+    cinema(12, "Cinema 12", "Address 12", "Phone 12", 210).
+    cinema(13, "Cinema 13", "Address 13", "Phone 13", 230).
+    cinema(14, "Cinema 14", "Address 14", "Phone 14", 170).
+    cinema(15, "Cinema 15", "Address 15", "Phone 15", 190).
+
+    movie(1, "Movie 1", 2023, "Director 1", "Genre 1").
+    movie(2, "Movie 2", 2023, "Director 2", "Genre 2").
+    movie(3, "Movie 3", 2023, "Director 3", "Genre 3").
+    movie(4, "Movie 4", 2023, "Director 4", "Genre 1").
+    movie(5, "Movie 5", 2023, "Director 5", "Genre 2").
+
+    show(1, 1, "2023-05-09", "15:30", 150).
+    show(2, 2, "2023-05-09", "18:00", 180).
+    show(3, 3, "2023-05-09", "13:00", 200).
+    show(4, 4, "2023-05-09", "16:30", 120).
+    show(5, 5, "2023-05-09", "20:00", 220).
+    show(6, 1, "2023-05-09", "21:30", 230).
+    show(7, 2, "2023-05-09", "00:00", 150).
+    show(8, 3, "2023-05-09", "22:00", 180).
+    show(9, 4, "2023-05-09", "00:30", 200).
+    show(10, 5, "2023-05-09", "15:00", 250).
+    show(11, 1, "2023-05-09", "16:00", 180).
+    show(12, 2, "2023-05-09", "19:30", 200).
+    show(13, 3, "2023-05-09", "12:30", 210).
+    show(14, 4, "2023-05-09", "15:00", 140).
+    show(15, 5, "2023-05-09", "17:30", 230).
